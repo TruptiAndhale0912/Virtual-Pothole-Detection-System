@@ -1,13 +1,11 @@
-python==3.8.18
+Virtual Pothole Detection System
+Implemented Successfully
 
-'Alpinia Galanga (Rasna)', 'Amaranthus Viridis (Arive-Dantu)', 'Artocarpus Heterophyllus (Jackfruit)',
-            'Azadirachta Indica (Neem)', 'Basella Alba (Basale)', 'Brassica Juncea (Indian Mustard)',
-            'Carissa Carandas (Karanda)', 'Citrus Limon (Lemon)', 'Ficus Auriculata (Roxburgh fig)',
-            'Ficus Religiosa (Peepal Tree)', 'Hibiscus Rosa-sinensis', 'Jasminum (Jasmine)',
-            'Mangifera Indica (Mango)', 'Mentha (Mint)', 'Moringa Oleifera (Drumstick)',
-            'Muntingia Calabura (Jamaica Cherry-Gasagase)', 'Murraya Koenigii (Curry)',
-            'Nerium Oleander (Oleander)', 'Nyctanthes Arbor-tristis (Parijata)', 'Ocimum Tenuiflorum (Tulsi)',
-            'Piper Betle (Betel)', 'Plectranthus Amboinicus (Mexican Mint)', 'Pongamia Pinnata (Indian Beech)',
-            'Psidium Guajava (Guava)', 'Punica Granatum (Pomegranate)', 'Santalum Album (Sandalwood)',
-            'Syzygium Cumini (Jamun)', 'Syzygium Jambos (Rose Apple)', 'Tabernaemontana Divaricata (Crape Jasmine)',
-            'Trigonella Foenum-graecum (Fenugreek)'
+Developed and implemented an innovative Virtual Pothole Detection System using computer vision and machine learning techniques. The system includes a mobile application that captures Images as well as Upload images, detect and report potholes in real-time. Successfully tested under various conditions, this project improves road safety and maintenance efficiency by providing timely pothole detection and reporting.
+
+Key Achievements:
+
+Designed and developed a real-time pothole detection algorithm.
+Implemented a user-friendly mobile application for data collection.
+Created a web-based dashboard for visualizing pothole data and assisting maintenance planning.
+Successfully tested the system in diverse environments, achieving high detection accuracy
